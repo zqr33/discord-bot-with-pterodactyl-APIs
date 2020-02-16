@@ -1,0 +1,15 @@
+{
+    "prefix": "/",
+    "api_key": "your API key",
+    "author":"zQr#1446",
+    "admin":"admin id",
+    "embed":{
+        "color": "#FFffff",
+        "error": "#FF0000",
+        "sukces": "#00ff00"
+    },
+    "token":"bot token",
+    "support_id": "server id",
+    "guild": "discord guild id"
+    
+}
