@@ -7,9 +7,9 @@ const Client = node.Client;
 
 
 
-Client.login("https://panel.phantomhost.eu", config.api_key, (logged_in) => {
+Client.login(config.query , config.api_key, (logged_in) => {
     if(logged_in == true){
-        console.log(`Pomyślnie zalogowano do API PhantomHOST`)
+        console.log(`Pomyślnie zalogowano do API`)
     } else {
         console.log(logged_in)
     }

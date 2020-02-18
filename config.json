@@ -10,6 +10,7 @@
     },
     "token":"bot token",
     "support_id": "server id",
-    "guild": "discord guild id"
+    "guild": "discord guild id",
+    "query": "www link to panel page"
     
 }
